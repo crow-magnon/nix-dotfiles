@@ -20,7 +20,6 @@ local servers = {
     "lua_ls",
     "pyright",
     "tsserver",
-    "nil_ls",
 }
 
 require("mason").setup(settings)
